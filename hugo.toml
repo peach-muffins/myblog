@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+# The name of this wonderful theme ;-).
+theme = 'hugo-bearblog'

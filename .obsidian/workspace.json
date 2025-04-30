@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "3f69d75a39770e2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "50ae4c645d9d7f8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caf286c2f11a1ed0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d9c7f631c2d6748",
+    "type": "split",
+    "children": [
+      {
+        "id": "44fe9e943dff07a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeb3162875c63087",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "28debd6a671bf35d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d31a088a47501ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5ca38e2b9dce78a",
+    "type": "split",
+    "children": [
+      {
+        "id": "37c9a8b353a91021",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6077a6ebe77bea8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/blog/Haha.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Haha"
+            }
+          },
+          {
+            "id": "4424c93a2a151165",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/blog/Haha.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Haha"
+            }
+          },
+          {
+            "id": "d1fe729da33a7467",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8743b6b88462dd6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/blog/Haha.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Haha"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "caf286c2f11a1ed0",
+  "lastOpenFiles": [
+    "content/blog/아니요.md",
+    "content/blog/Haha.md",
+    "public/index.xml",
+    "public/tags/index.xml",
+    "public/tags/index.html",
+    "public/tags",
+    "public/categories/index.xml",
+    "public/categories/index.html",
+    "public/categories",
+    "public/index.html",
+    "public/404.html",
+    "public/sitemap.xml"
+  ]
+}
