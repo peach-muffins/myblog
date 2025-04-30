@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haha.md",
+                "file": "아니요.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Haha"
+              "title": "아니요"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haha.md",
+                "file": "아니요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Haha"
+              "title": "Backlinks for 아니요"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haha.md",
+                "file": "아니요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Haha"
+              "title": "Outgoing links from 아니요"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haha.md",
+                "file": "아니요.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Haha"
+              "title": "Outline of 아니요"
             }
           }
         ]
@@ -170,7 +170,7 @@
   },
   "active": "5669f6af913ff848",
   "lastOpenFiles": [
-    "아니요.md",
-    "Haha.md"
+    "Haha.md",
+    "아니요.md"
   ]
 }
